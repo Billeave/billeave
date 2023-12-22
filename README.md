@@ -1,6 +1,8 @@
 ### About me
 Hey I'm Billy a Front-End developer with a passion for UI & UX. I mainly work on web apps and mobile apps using React & React Native. 
+
 ---
+
 
 ### Tech Stack
 
